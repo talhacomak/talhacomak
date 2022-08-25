@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @talhacomak
-- I'm a senior student at Istanbul Technical University (ITU) 
+- I'm a graduated from Istanbul Technical University (ITU) 
 - I’m interested in Software Engineering areas 
-- You can reach me by email: comak16@itu.edu.tr
+- Highly focues on Android Development, Java and Kotlin Programming
+- You can reach me by email: tcomak32@outlook.com
 
 <!---
 talhacomak/talhacomak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
